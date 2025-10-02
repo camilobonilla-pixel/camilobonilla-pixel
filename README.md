@@ -10,6 +10,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/camilobonilla-pixel/camilobonilla-pixel)
 
 ### :zap: Actividad reciente
-<!--START SECTION:actividad-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
