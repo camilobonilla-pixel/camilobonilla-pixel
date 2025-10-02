@@ -8,3 +8,8 @@
 
 ### Vias de contacto
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/camilobonilla-pixel/camilobonilla-pixel)
+
+### :zap: Actividad reciente
+<!--START SECTION:actividad-->
+
+<!--END_SECTION:activity-->
